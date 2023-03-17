@@ -23,16 +23,14 @@ RUN apk add nginx
 RUN rc-update add nginx
 
 # PHP
-RUN apk add php8
-RUN apk add php8-fpm
-RUN apk add php8-pdo_mysql
-RUN apk add php8-mysqli
-RUN apk add php8-pecl-imagick
-RUN apk add php8-mbstring
-RUN apk add php8-xmlreader
-RUN apk add php8-curl
-RUN apk add php8-iconv
-RUN apk add php8-zip
-RUN apk add php8-gd
-RUN rc-update add php-fpm8
-
+RUN apk add php81
+RUN apk add php81-fpm
+RUN apk add php81-pdo_mysql
+RUN apk add php81-mysqli
+RUN apk add php81-mbstring
+RUN apk add php81-xmlreader
+RUN apk add php81-curl
+RUN apk add php81-iconv
+RUN apk add php81-zip
+RUN apk add php81-gd
+RUN apk add php81-fpm

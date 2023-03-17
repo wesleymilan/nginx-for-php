@@ -18,7 +18,7 @@ Build your custom Docker Image running `./docker/build.sh`
 `docker-compose up`: Standalone version
 `docker-compose up -d`: Daemon version
 
-# 7th Step: Check your browser
+# 4th Step: Check your browser
 Open http://www.php.dvp/ and check the headers on your devtools, and you should see this entry `Server: nginx`.
 
 # Studying how it works
