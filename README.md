@@ -1,9 +1,7 @@
 # nginx-for-php
 A Nginx config repository for PHP backed web server
 
-Full **portuguese** tutorial is here: https://youtube.com/XXXXXXX
-
-Full **english** tutorial is here: https://youtube.com/XXXXXXX
+Full **portuguese** tutorial is here: [https://youtu.be/1Dt3ey-KnTk](https://youtu.be/1Dt3ey-KnTk)
 
 # 1st Step: Domain name
 In your local host machine add the following lines to your `/etc/hosts` file in order to find the application.
